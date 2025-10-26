@@ -29,7 +29,7 @@ PRISM (Progressive Representation Integration & Dynamic Fusion Strategies) prepr
 
 ## Team Status
 
-**Arun**
+**Anirudha**
 | Working | Completed | Pending / Blockers |
 |---|---|---|
 |  |  |  |
